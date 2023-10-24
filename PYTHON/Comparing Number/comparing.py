@@ -5,7 +5,7 @@ b = float(input("value b : "))
 
 if a>b :
     print(f"{a} > {b}")
-if a<b :
+elif a<b :
     print(f"{a} < {b}")
 else :
     print(f"{a} == {b}")
