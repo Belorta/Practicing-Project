@@ -1,3 +1,5 @@
+#stair of number
+
 a = int(input("input your end: "))
 b = str(1)
 
